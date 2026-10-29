@@ -51,7 +51,7 @@ export default function About() {
             <div className="relative">
               <div className="w-72 h-80 sm:w-80 sm:h-96 rounded-2xl overflow-hidden border border-[#1e2d4d] shadow-2xl">
                 <img
-                  src="/portfolio/assets/my-photo.jpeg"
+                  src="/assets/my-photo.jpeg"
                   alt="Mohamed Megahed — AI Automation Engineer from Tanta, Egypt"
                   className="w-full h-full object-cover object-top"
                   loading="lazy"
