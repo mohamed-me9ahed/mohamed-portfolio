@@ -21,7 +21,7 @@ export interface Project {
   disclaimer?: string;
 }
 
-const BASE = '/portfolio/assets';
+const BASE = '/assets';
 
 // ============================================================
 // PROJECT ORDER: MANDATORY — DO NOT CHANGE
